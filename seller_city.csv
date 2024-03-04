@@ -1,0 +1,612 @@
+seller_city,total
+sao paulo,694
+curitiba,127
+rio de janeiro,96
+belo horizonte,68
+ribeirao preto,52
+guarulhos,50
+ibitinga,49
+santo andre,45
+campinas,41
+maringa,40
+sao jose do rio preto,33
+sorocaba,32
+osasco,32
+sao bernardo do campo,32
+brasilia,28
+porto alegre,28
+londrina,26
+goiania,23
+joinville,22
+blumenau,21
+sao caetano do sul,20
+franca,20
+sao jose dos campos,18
+caxias do sul,18
+florianopolis,18
+limeira,17
+santos,16
+marilia,15
+mogi das cruzes,15
+bauru,14
+jundiai,14
+cascavel,14
+sao carlos,13
+maua,13
+barueri,13
+piracicaba,12
+uberlandia,12
+contagem,12
+presidente prudente,12
+rio claro,12
+atibaia,11
+araraquara,11
+carapicuiba,10
+juiz de fora,10
+arapongas,10
+cotia,10
+birigui,10
+sao jose dos pinhais,10
+catanduva,10
+praia grande,10
+taboao da serra,10
+itajai,10
+brusque,10
+americana,10
+canoas,9
+itaquaquecetuba,9
+diadema,9
+pedreira,9
+jaragua do sul,9
+santana de parnaiba,9
+porto ferreira,9
+salto,9
+palhoca,8
+apucarana,8
+assis,8
+pinhais,8
+colombo,8
+toledo,8
+niteroi,8
+divinopolis,8
+mogi guacu,8
+indaiatuba,8
+jacarei,7
+salvador,7
+sao goncalo,7
+sao roque,7
+fortaleza,7
+valinhos,7
+ponta grossa,6
+petropolis,6
+taubate,6
+uba,6
+fazenda rio grande,6
+ribeirao pires,6
+guaruja,6
+novo hamburgo,6
+santa rita do sapucai,6
+claudio,6
+lencois paulista,6
+sumare,5
+amparo,5
+sao jose,5
+recife,5
+foz do iguacu,5
+tubarao,5
+lajeado,5
+vila velha,5
+betim,5
+nova friburgo,5
+pocos de caldas,5
+braganca paulista,5
+penapolis,5
+nova iguacu,5
+itatiba,4
+francisco beltrao,4
+varginha,4
+jau,4
+botucatu,4
+itapecerica da serra,4
+itu,4
+itapevi,4
+jaguariuna,4
+garca,4
+jaci,4
+sete lagoas,4
+santa barbara d'oeste,4
+araguari,4
+borda da mata,4
+formiga,4
+aracatuba,4
+barra mansa,4
+votorantim,4
+cachoeiro de itapemirim,4
+fernandopolis,4
+votuporanga,4
+sp,4
+vitoria,4
+mirassol,4
+criciuma,4
+campo grande,4
+tupa,4
+umuarama,4
+paulinia,4
+capivari,4
+rio do sul,4
+barretos,4
+guaratuba,3
+uberaba,3
+sao joao de meriti,3
+ferraz de vasconcelos,3
+balneario camboriu,3
+sao bento do sul,3
+venancio aires,3
+vargem grande do sul,3
+artur nogueira,3
+pelotas,3
+osvaldo cruz,3
+navegantes,3
+morrinhos,3
+montes claros,3
+pompeia,3
+mogi mirim,3
+anapolis,3
+mesquita,3
+marechal candido rondon,3
+macae,3
+loanda,3
+laranjal paulista,3
+duque de caxias,3
+rolandia,3
+jacutinga,3
+araras,3
+santa maria,3
+santa terezinha de itaipu,3
+sao paulo - sp,3
+aruja,3
+carazinho,3
+boituva,3
+tres coracoes,3
+conselheiro lafaiete,3
+tatui,3
+batatais,3
+campo largo,3
+cambe,3
+chapeco,3
+serra negra,3
+sarandi,3
+bento goncalves,3
+serra,3
+suzano,3
+tabatinga,3
+cachoeirinha,3
+porto belo,2
+itauna,2
+tanabi,2
+santa barbara d´oeste,2
+itapetininga,2
+pitanga,2
+belford roxo,2
+imbituba,2
+cajamar,2
+montenegro,2
+itajobi,2
+armacao dos buzios,2
+itaipulandia,2
+indaial,2
+araxa,2
+santa rosa,2
+ipatinga,2
+ipira,2
+rodeio,2
+campo bom,2
+jaboticabal,2
+vicosa,2
+rio bonito,2
+lorena,2
+mairipora,2
+ribeirao das neves,2
+registro,2
+lauro de freitas,2
+laurentino,2
+canoinhas,2
+campo limpo paulista,2
+lagoa da prata,2
+lages,2
+cariacica,2
+araucaria,2
+sombrio,2
+joao pessoa,2
+andradas,2
+videira,2
+pradopolis,2
+dores de campos,2
+caruaru,2
+jaguaruna,2
+treze tilias,2
+castro,2
+igaracu do tiete,2
+natal,2
+viamao,2
+cafelandia,2
+gaspar,2
+garopaba,2
+sao jose do rio pardo,2
+franco da rocha,2
+timbo,2
+tiradentes,2
+cosmopolis,2
+formosa,2
+flores da cunha,2
+bariri,2
+cuiaba,2
+curitibanos,2
+sao leopoldo,2
+sao ludgero,2
+sao pedro,2
+farroupilha,2
+xanxere,2
+estancia velha,2
+paulo lopes,2
+patos de minas,2
+pato branco,2
+embu das artes,2
+echapora,2
+dois corregos,2
+sao joao del rei,2
+coronel fabriciano,2
+pinhalzinho,2
+uruacu,2
+teresopolis,2
+guaira,2
+baependi,2
+volta redonda,2
+conchal,2
+alfenas,2
+hortolandia,2
+nilopolis,2
+bady bassitt,2
+nova odessa,2
+viana,1
+presidente epitacio,1
+piracanjuba,1
+presidente getulio,1
+vicente de carvalho,1
+pedregulho,1
+taruma,1
+queimados,1
+pinhalao,1
+ribeirao preto / sao paulo,1
+tocantins,1
+resende,1
+pitangueiras,1
+vitoria de santo antao,1
+pirassununga,1
+pato bragado,1
+pederneiras,1
+poa,1
+torres,1
+pirituba,1
+tambau,1
+tres coroas,1
+pilar do sul,1
+ponte nova,1
+picarras,1
+tiete,1
+pinhais/pr,1
+timoteo,1
+taio,1
+porto seguro,1
+presidente bernardes,1
+porto velho,1
+portoferreira,1
+pouso alegre,1
+terra boa,1
+pedro leopoldo,1
+pedrinhas paulista,1
+prados,1
+teixeira soares,1
+portao,1
+teresina,1
+sao paulop,1
+tabao da serra,1
+sao  jose dos pinhais,1
+sao francisco do sul,1
+sao bernardo do capo,1
+saquarema,1
+são paulo,1
+sbc,1
+sao bento,1
+sao  paulo,1
+vargem grande paulista,1
+sao joao da boa vista,1
+santo antonio de posse,1
+sbc/sp,1
+santo antonio de padua,1
+santo antonio da patrulha,1
+santo angelo,1
+santo andre/sao paulo,1
+scao jose do rio pardo,1
+uruguaiana,1
+sao joaquim da barra,1
+ribeirao pretp,1
+sao luis,1
+sao paulo sp,1
+sao paulo / sao paulo,1
+sao pauo,1
+ubatuba,1
+sao paluo,1
+sao miguel do oeste,1
+sao miguel d'oeste,1
+sao jose dos pinhas,1
+sapiranga,1
+sao pedro da aldeia,1
+sao sebastiao,1
+parnamirim,1
+uniao da vitoria,1
+sao sebastiao da grama/sp,1
+sao jose do rio pret,1
+sao vicente,1
+varzea alegre,1
+santa terezinha de goias,1
+santa rosa de viterbo,1
+rio de janeiro / rio de janeiro,1
+rio verde,1
+rio negrinho,1
+rio grande,1
+sp / sp,1
+rio do oeste,1
+"rio de janeiro, rio de janeiro, brasil",1
+rio de janeiro \rio de janeiro,1
+tres rios,1
+santa maria da serra,1
+vendas@creditparts.com.br,1
+rio das pedras,1
+vera cruz,1
+tres de maio,1
+vespasiano,1
+rio branco,1
+riberao preto,1
+soledade,1
+robeirao preto,1
+vassouras,1
+rolante,1
+santa cruz do sul,1
+serra redonda,1
+santa cecilia,1
+santa catarina,1
+serrana,1
+triunfo,1
+varzea paulista,1
+sertanopolis,1
+santa barbara d oeste,1
+sando andre,1
+sinop,1
+sabara,1
+socorro,1
+s jose do rio preto,1
+ronda alta,1
+passos,1
+04482255,1
+paranavai,1
+castro pires,1
+congonhal,1
+condor,1
+concordia,1
+colorado,1
+colatina,1
+clementina,1
+cianorte,1
+cerqueira cesar,1
+centro,1
+caucaia,1
+cataguases,1
+cascavael,1
+cordeiropolis,1
+carmo do cajuru,1
+carmo da mata,1
+cariacica / es,1
+caratinga,1
+carapicuiba / sao paulo,1
+cananeia,1
+campos novos,1
+campos dos goytacazes,1
+campo mourao,1
+campo magro,1
+campo do meio,1
+congonhas,1
+cordilheira alta,1
+goioere,1
+eusebio,1
+garulhos,1
+gama,1
+fronteira,1
+francisco morato,1
+formosa do oeste,1
+floresta,1
+floranopolis,1
+ferraz de  vasconcelos,1
+fernando prestes,1
+feira de santana,1
+extrema,1
+eunapolis,1
+cornelio procopio,1
+erechim,1
+entre rios do oeste,1
+engenheiro coelho,1
+embu guacu,1
+dracena,1
+domingos martins,1
+divisa nova,1
+descalvado,1
+cruzeiro,1
+cravinhos,1
+coxim,1
+campina grande,1
+campina das missoes,1
+campanha,1
+aparecida de goiania,1
+bage,1
+avare,1
+auriflama/sp,1
+auriflama,1
+arvorezinha,1
+arraial d'ajuda (porto seguro),1
+arinos,1
+ararangua,1
+araquari,1
+aracaju,1
+aperibe,1
+aparecida,1
+camboriu,1
+ao bernardo do campo,1
+angra dos reis rj,1
+angra dos reis,1
+andira-pr,1
+ampere,1
+alvorada,1
+alvares machado,1
+almirante tamandare,1
+alambari,1
+aguas claras df,1
+afonso claudio,1
+bahia,1
+balenario camboriu,1
+bandeirantes,1
+barbacena,1
+camanducaia,1
+california,1
+caieiras,1
+cachoeira do sul,1
+cacador,1
+buritama,1
+brotas,1
+brejao,1
+brasilia df,1
+braco do norte,1
+bonfinopolis de minas,1
+bombinhas,1
+bom jesus dos perdoes,1
+bom jardim,1
+bofete,1
+bocaiuva do sul,1
+bertioga,1
+belo horizont,1
+bebedouro,1
+barro alto,1
+barrinha,1
+barra velha,1
+barbacena/ minas gerais,1
+garuva,1
+governador valadares,1
+parana,1
+mateus leme,1
+mombuca,1
+mogi das cruzes / sp,1
+mogi das cruses,1
+mococa,1
+mirandopolis,1
+mineiros do tiete,1
+minas gerais,1
+miguelopolis,1
+messias targino,1
+medianeira,1
+maua/sao paulo,1
+massaranduba,1
+monte alto,1
+marica,1
+marialva,1
+marapoama,1
+mandirituba,1
+mandaguari,1
+mandaguacu,1
+manaus,1
+mamanguape,1
+mairinque,1
+mage,1
+macatuba,1
+monte alegre do sul,1
+monte siao,1
+guaimbe,1
+orlandia,1
+paraiso do sul,1
+paraiba do sul,1
+parai,1
+paracambi,1
+palotina,1
+paincandu,1
+pacatuba,1
+ouro preto,1
+ouro fino,1
+ourinhos,1
+orleans,1
+oliveira,1
+monteiro lobato,1
+olimpia,1
+novo horizonte,1
+"novo hamburgo, rio grande do sul, brasil",1
+nova trento,1
+nova petropolis,1
+nova lima,1
+nhandeara,1
+neopolis,1
+muriae,1
+muqui,1
+mucambo,1
+luziania,1
+luiz alves,1
+louveira,1
+igrejinha,1
+itabira,1
+irece,1
+irati,1
+ipua,1
+ipe,1
+ipaussu,1
+imigrante,1
+imbituva,1
+imbe,1
+ilicinea,1
+ilheus,1
+icara,1
+abadia de goias,1
+ibirite,1
+ibia,1
+horizontina,1
+holambra,1
+guiricema,1
+guariba,1
+guaratingueta,1
+guarapuava,1
+guara,1
+guanhaes,1
+guanambi,1
+itaborai,1
+itapema,1
+itapeva,1
+itaporanga,1
+leme,1
+laranjeiras do sul,1
+lambari,1
+laguna,1
+lagoa santa,1
+lages - sc,1
+juzeiro do norte,1
+jussara,1
+joao pinheiro,1
+joao monlevade,1
+ji parana,1
+jarinu,1
+jaragua,1
+japira,1
+janauba,1
+jambeiro,1
+jales,1
+jaciara,1
+jacarei / sao paulo,1
+ivoti,1
+itirapina,1
+itau de minas,1
+itapui,1
+xaxim,1
